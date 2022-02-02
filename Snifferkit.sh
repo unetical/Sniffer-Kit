@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-echo UNETİCAL Sniffer Set Kurulum
+echo UNETICAL Sniffer Set Kurulum
 
       echo -e $white " "
       echo -e $white"	[$okegreen"01"$white]$okegreen  Full Set Kurulum."
